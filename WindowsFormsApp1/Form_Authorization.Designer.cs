@@ -101,7 +101,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.button_authorization);
             this.Controls.Add(this.label_password);
             this.Controls.Add(this.label_login);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form_Authorization";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.ResumeLayout(false);

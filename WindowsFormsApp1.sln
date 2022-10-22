@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{4C2CA8D8-DAEB-4D2A-8A53-07DA7CB4A018}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_EyeCorrectionClinic", "WindowsFormsApp1\Project_EyeCorrectionClinic.csproj", "{4C2CA8D8-DAEB-4D2A-8A53-07DA7CB4A018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
